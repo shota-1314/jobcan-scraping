@@ -6,7 +6,7 @@ Google Cloud Functionsにデプロイすることで
 各企業によって出退勤画面が変わると思うので
 出退勤処理内は各々で書く想定でコミットしています。
 
-# 引数
+## 引数
 
 ・ジョブカンID
 
@@ -21,7 +21,7 @@ Google Cloud Functionsにデプロイすることで
 Google Cloud Functions詳細
 https://cloud.google.com/functions/docs/concepts/overview?hl=ja
 
-# デプロイ
+## デプロイ
 ```bash
 gcloud functions deploy scrapeUrl \
 --runtime nodejs16 \
