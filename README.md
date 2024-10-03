@@ -7,10 +7,15 @@ Google Cloud Functionsにデプロイすることで
 出退勤処理内は各々で書く想定でコミットしています。
 
 # 引数
+
 ・ジョブカンID
+
 ・パスワード
+
 ・出退勤パラメータ
+
 　punch_in : 出勤
+ 
   punch-out : 退勤
 
 Google Cloud Functions詳細
